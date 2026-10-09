@@ -1,6 +1,6 @@
 # Adaptive Inference Telemetry Pipeline
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23265227.svg)](https://zenodo.org)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 An end-to-end framework demonstrating dynamic model routing for Industrial IoT edge gateways. The system processes normalized telemetry packets locally via an INT8-quantized ONNX engine, triggering cloud model fallbacks only when prediction entropy exceeds calibrated confidence thresholds ($\tau$).
